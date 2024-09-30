@@ -1,4 +1,13 @@
 body{
-    background-color: darkblue;
+    background-color: black;
     color:white;
+}
+
+.hw{
+    transition: 300ms ease-in-out;
+}
+.hw:hover {
+    font-family: sans-serif;
+    color:yellow;
+    transition: 300ms ease-in-out;
 }
